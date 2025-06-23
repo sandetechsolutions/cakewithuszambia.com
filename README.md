@@ -1,8 +1,8 @@
-# 🎂 Cake With Us Zambia
+#  Cake With Us Zambia
 
 **Cake With Us Zambia** is a beautifully styled website showcasing custom cakes, cupcakes, and pastries for every occasion — baked with love and delivered in Lusaka.
 
-## 🍰 Features
+##  Features
 - Pink and white responsive design
 - Profile section with round baker image
 - Image galleries for:

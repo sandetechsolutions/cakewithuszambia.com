@@ -13,14 +13,14 @@
 - Embedded Google Map for Lusaka location
 - Direct call and WhatsApp buttons for easy ordering
 
-## 📍 Location
-We proudly serve customers in and around **Lusaka, Zambia**.
+##  Location
+We proudly serve customers within Lusaka and beyond **Lusaka, Zambia**.
 
-## 📞 Contact
+##  Contact
 - **Phone:** +260971234567
 - **WhatsApp:** [Chat Now](https://wa.me/260971234567?text=Hi%20Cake%20With%20Us,%20I’d%20like%20to%20order%20a%20cake!)
 
-## 🔗 View the Website
+##  View the Website
 
  [Open Cake With Us Zambia official website](./cwu.html)
 
